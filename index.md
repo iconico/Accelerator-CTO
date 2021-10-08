@@ -1,8 +1,8 @@
 ## Accelerator CTO
 
-This site will host Accelerator CTO's leadership content
+AcceleratorCTO provides executive level industry specialists in technology, specifically for small and emerging startups.
 
-### Please return later for full details
+
 
 ### Support or Contact
 
